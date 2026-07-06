@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# System files
+.DS_Store
+Thumbs.db
+
+
+# Environment variables
+.env
+
+
+# IDE files
+.vscode/
+.idea/
+
+
+# Logs
+*.log
+
+
+# Large generated files
+*.zip
+
+
+# Optional model backups
+*.bak
